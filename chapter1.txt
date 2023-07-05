@@ -1,1 +1,3 @@
-This is chapter 1 of the Story
+This is chapter 1 of the Story.
+
+This chapter is all about Person 1
